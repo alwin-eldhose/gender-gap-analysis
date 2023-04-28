@@ -9,8 +9,6 @@ The Covid-19 pandemic brought this divide to the forefront. Many services, oppor
 
 Women in Low- and Middle-Income Countries made up the majority of this offline population (LMICs). This project was created to bring attention to the digital gender gap and promote awareness of both the progress that has been done and the wide differences in access to digital and communications technology that exist around the world.
 
-Check out the [Tableau Public Page](https://public.tableau.com/app/profile/alwin.eldhose.babu/viz/Digitalaccesstotheinternetandmobilephonescomparedacrossmenandwomen/Howdoesaccesstotheinternetandmobilephonescompareacrossmenandwomen?publish=yes) to see for yourself.
-
 
 ## Visualization Improvements
 
