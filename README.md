@@ -11,9 +11,6 @@ Women in Low- and Middle-Income Countries made up the majority of this offline p
 
 Check out the [Tableau Public Page](https://public.tableau.com/app/profile/alwin.eldhose.babu/viz/Digitalaccesstotheinternetandmobilephonescomparedacrossmenandwomen/Howdoesaccesstotheinternetandmobilephonescompareacrossmenandwomen?publish=yes) to see for yourself.
 
-```bash
-pip install foobar
-```
 
 ## Visualization Improvements
 
